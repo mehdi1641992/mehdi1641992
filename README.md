@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mehdi 👋
+### Humanitarian Worker | Vibe Coder | Lore Builder
 
-<!--
-**mehdi1641992/mehdi1641992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high-performance tools for businesses out of hobby
 
-Here are some ideas to get you started:
+## 🚀 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. QR Code Generator 
+* **What it is:** A Flask-based tool to generate and track editable QR codes.
+* **Tech:** Python, Flask, SQLite.
+* 🔴 [Live Demo](http://fxtryout.pythonanywhere.com)
+* 🛒 [Buy Source Code on Codester](Still under review)
+
+
+
+---
+[Email Me](mailto:mmc1641992@gmail.com) | [My Codester Profile](https://www.codester.com/mehdimchow/) | [My Profile](https://sites.google.com/view/mehdimchow/projects)
